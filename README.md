@@ -21,7 +21,7 @@ The triple_mapping and verb_and_object_mapping provide the id of class (the id p
 ```
 
 #### triples.json
-```json
+```yaml
     {
         "subject": {
           "50": "i",
@@ -49,7 +49,7 @@ The triple_mapping and verb_and_object_mapping provide the id of class (the id p
 ```
    
 #### triple_mapping.json
-```json
+```yaml
     
     {
         "c0420": ["v0019", "o0115"],
@@ -57,8 +57,8 @@ The triple_mapping and verb_and_object_mapping provide the id of class (the id p
     }
 ```
   
-verb_and_object_mapping.json
-```json
+#### verb_and_object_mapping.json
+```yaml
    
     {
         "c0420": ["get", "food"],
