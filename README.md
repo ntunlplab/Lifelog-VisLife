@@ -67,7 +67,7 @@ The triple_mapping and verb_and_object_mapping provide the id of class (the id p
 ```
     
 # Download
-Please write us an email with the agreement. Click here to download the agreement of VisLife.
+Please write us an email with the agreement. Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/VisLife/VisLife_agreement.pdf) to download the agreement of VisLife.
 
 Email Address: azyen@nlg.csie.ntu.edu.tw
 
