@@ -48,20 +48,20 @@ The triple_mapping and verb_and_object_mapping provide the id of class (the id p
       }
 ```
    
-```json
 #### triple_mapping.json
+```json
     
     {
         "c0420": ["v0019", "o0115"],
         ...
     }
 ```
-   
-```json
+  
 verb_and_object_mapping.json
-    
+```json
+   
     {
-        "c0420": ["get", "food"]
+        "c0420": ["get", "food"],
         ...
     }
 ```
